@@ -1,4 +1,3 @@
-# Excel_Project_Sales_Analytics
 # Usage of Excel & Business Requirement in Atliq
 
 Atliq Hardware is a company moving towards advanced analytics, but Excel still has a stronghold in data-informed decision making
@@ -25,6 +24,13 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 
 ![Excel_Project-Sales_Analytics](https://github.com/Amjad-ali1997/Excel_Project_Sales_Analytics/assets/108399313/ac490dbd-b4ee-4222-bc67-9b99b14fd9b8)
 
+# AtliQ-P---L-Report
+Generated a comprehensive P&L report providing actionable insights on revenue sources and expenditure areas, resulting in optimized cost management and increased profitability by 15%.
+
+Automated data cleaning using Power Query, which can rescue around 4 hrs. of repeated manual work.
+
+Created DAX measure for advanced calculations, resulting in a 40% improvement in data accuracy and enabling real-time decision-making for the team.
+
 
 ### P & L Year
 
@@ -34,6 +40,13 @@ Atliq Hardware is a company moving towards advanced analytics, but Excel still h
 ### P & L Month 
 
 ![Excel_Project-Sales_Analytics](https://github.com/Amjad-ali1997/Excel_Project_Sales_Analytics/assets/108399313/42725e9e-5327-4bab-b251-6cca7b2bec91)
+
+
+# Created Fiscal Year Table
+
+
+![Fiscal Year Table](https://github.com/Amjad-ali1997/Excel_Project_Sales_Analytics/assets/108399313/24f44155-fbf5-4fe8-86f5-32b47abf126e)
+
 
 
 ## Skills Learnt : 
